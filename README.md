@@ -1,4 +1,4 @@
-# Small-shell-scripts
+# Small-Shell-Scripts
 Working with shell scripts
 
 ## Description edit.sh.
