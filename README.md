@@ -1,2 +1,2 @@
-# small-shell-scripts
-Working with shell scripts
+# small-shell-script
+Working with shell script
